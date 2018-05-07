@@ -1,0 +1,20 @@
+{
+    "Citizen":{
+      "GiveToAbove":true,
+      "Rank":1,
+      "GroupID":872876
+    },
+
+    "Military Personnel":{
+      "GiveToAbove":true,
+      "Rank":1,
+      "GroupID":3029096
+    },
+
+    "Military Officers":{
+      "GiveToAbove":true,
+      "Rank":16,
+      "GroupID":3029096
+    }
+
+}
